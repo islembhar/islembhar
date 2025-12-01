@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning AI<br>🎯 Goals: To leverage my Full Stack expertise (Java/Spring Boot, React/Angular)<br>🎲 Fun fact: I'm multilingual! I am fluent in German, English, and French, in addition to being a native Arabic speaker</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning AI<br>🎯 Goals: To leverage my Full Stack expertise (Java/Spring Boot, React/Angular)<br>🎲 Fun fact: I'm multilingual! I am fluent in German, English, and French, in addition to being a native Arabic speaker</p>
 
 ###
 
